@@ -1,6 +1,5 @@
 ---
-title: "Elena de Sus"
+title: "Pages"
 ---
 
-Hola soy Elena
- BÑABÑALA
+[About me]({% link aboutme %})
