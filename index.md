@@ -2,4 +2,4 @@
 title: "Pages"
 ---
 
-[About me]({% link aboutme %})
+[About me]({% link aboutme.md %})
