@@ -1,2 +1,2 @@
 
- 
+ Aquí puedes encontrar mi trabajo periodístico. Entrevistas, columnas, reportajes...
