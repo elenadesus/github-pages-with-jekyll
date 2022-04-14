@@ -7,4 +7,8 @@ twitter_username:  elena_sg # DO NOT include the @ character, or else the build 
 github_username:  elenadesus # DO NOT include the @ character, or else the build will fail!
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+#header_pages:
+
+# - aboutme.md
+
 theme: minima
