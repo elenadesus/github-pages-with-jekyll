@@ -1,5 +1,2 @@
----
-title: "Pages"
----
 
-[About me]({% link aboutme.md %})
+ Aquí puedes encontrar mi trabajo periodístico. Entrevistas, columnas, reportajes...
