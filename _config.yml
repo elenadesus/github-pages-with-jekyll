@@ -1,11 +1,8 @@
 title: Elena de Sus
 
-header_pages:
-# - aboutme.md
+header_pages: aboutme.md
 
-author:
- name: Elena de Sus
- email: elena@ctxt.es
+email: elena@ctxt.es
 
 description: > # this means to ignore newlines until "baseurl:"
   Periodista en CTXT
