@@ -1,5 +1,5 @@
 ---
-title: " "¡Si tiramos una piedra, las teles dirán que hemos tirado la cantera entera!" "
+title: ""¡Si tiramos una piedra, las teles dirán que hemos tirado la cantera entera!""
 tags: crónicas
 ---
 ### Un paseo por la concentración de los taxistas de Madrid en IFEMA, en su cuarto día de huelga
