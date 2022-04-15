@@ -1,5 +1,5 @@
 ---
-title: ""¡Si tiramos una piedra, las teles dirán que hemos tirado la cantera entera!""
+title: "¡Si tiramos una piedra, las teles dirán que hemos tirado la cantera entera!"
 tags: crónicas
 ---
 Lo primero que encuentras al salir de un metro abarrotado en la estación Feria de Madrid, línea 8, es una chica tímida que reparte publicidad de Wondo, “tu nueva app de transporte en Madrid”. Lo segundo que encuentras, nada más subir las escaleras para emerger a la superficie, es un par de policías con cascos y porras.
