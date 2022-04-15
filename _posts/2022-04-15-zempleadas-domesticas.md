@@ -2,7 +2,7 @@
 title: 'Las empleadas domésticas se organizan para combatir la precariedad y el aislamiento'
 tags: reportajes
 ---
-### El 95,5% son mujeres. No tienen derecho a la prestación por desempleo. En cuanto a la pensión, el sistema especial no cubre las lagunas de cotización en la vida laboral
+#### El 95,5% son mujeres. No tienen derecho a la prestación por desempleo. En cuanto a la pensión, el sistema especial no cubre las lagunas de cotización en la vida laboral
 
 Graciela Gallego dejó su Colombia natal rumbo a España en julio de 2001. Tenía formación como docente y experiencia como administrativa en el sector bancario. “Pero ya me dijeron que no venía a ninguna oficina”, recuerda.
 
