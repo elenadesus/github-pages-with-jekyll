@@ -11,6 +11,6 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username:  elena_sg # DO NOT include the @ character, or else the build will fail!
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-
+lang: es
 
 theme: minima
