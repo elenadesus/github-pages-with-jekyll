@@ -8,4 +8,4 @@ Lo primero que encuentras al salir de un metro abarrotado en la estación Feria 
 
 No hace falta caminar demasiado (aunque todo es relativo en esta vida) para llegar hasta una gran concentración humana, oscura y salpicada de chalecos amarillos. No hay otros símbolos, más allá de una solitaria bandera de España. Aunque el grupo es diverso, se advierte una mayoría de hombres mayores o de mediana edad.
 
-Artículo completo en [CTXT](https://ctxt.es/es/20190123/Politica/24103/Elena-de-Sus-huelga-taxistas-ifema-Madrid-medios.htm). Publicado en enero de 2019.
+Artículo completo en [CTXT](https://ctxt.es/es/20190123/Politica/24103/Elena-de-Sus-huelga-taxistas-ifema-Madrid-medios.htm). 
