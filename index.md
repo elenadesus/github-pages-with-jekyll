@@ -1,2 +1,2 @@
 
- Una selección de mi trabajo periodístico. Entrevistas, columnas, reportajes...
+ Una selección de mi trabajo periodístico. Entrevistas, columnas, reportajes y crónicas.
