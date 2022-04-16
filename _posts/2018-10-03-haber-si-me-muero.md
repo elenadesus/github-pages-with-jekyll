@@ -6,4 +6,4 @@ Es domingo. Abro los ojos y estiro el brazo para palpar la mesilla hasta detecta
 
 Es domingo. No encuentro ninguna razón para levantarme, así que dejo el móvil boca abajo y adopto esa posición yo misma. Cierro los ojos.
 
-Artículo completo en [CTXT](https://ctxt.es/es/20181003/Firmas/22079/femilenial-elena-de-sus-noche-madrile%C3%B1a-c-tangana.htm). Publicado en octubre de 2018.
+Artículo completo en [CTXT](https://ctxt.es/es/20181003/Firmas/22079/femilenial-elena-de-sus-noche-madrile%C3%B1a-c-tangana.htm). 
