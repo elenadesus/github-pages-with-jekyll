@@ -7,7 +7,7 @@ author: Madrid
 email: elena@ctxt.es
 
 description: > # this means to ignore newlines until "baseurl:"
-  Periodista y editora. En la redacción de CTXT.
+  Periodista y editora.
 # social links
 twitter_username:  elena_sg # DO NOT include the @ character, or else the build will fail!
 show_excerpts: true # set to false to remove excerpts on the homepage
